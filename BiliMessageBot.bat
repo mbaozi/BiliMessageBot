@@ -1,0 +1,1 @@
+python\python.exe msg_bot\msg_bot_for_bili.py
